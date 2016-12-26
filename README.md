@@ -12,3 +12,34 @@ Alternative to ansible tower
 ![](https://github.com/jackeyGao/Docible/raw/master/screenCaptures/F552617A-48DA-4689-8C29-A0D686E60104.png)
 ![](https://github.com/jackeyGao/Docible/raw/master/screenCaptures/F672CCC5-E55B-4C8F-9FCD-94628E2EDC4C.png)
 
+# Packages
+
+`VUE.js` + `Django` + `Mysql` + `MQ`
+
+```shell
+ansible (2.1.2.0)
+cffi (1.8.3)
+cmdstats (0.3)
+cryptography (1.5.2)
+Django (1.10.2)
+django-cors-headers (1.2.2)
+django-filter (0.15.3)
+djangorestframework (3.4.7)
+enum34 (1.1.6)
+idna (2.1)
+ipaddress (1.0.17)
+Jinja2 (2.8)
+jsonfield (1.0.3)
+MarkupSafe (0.23)
+paramiko (2.0.2)
+pip (7.1.0)
+pyasn1 (0.1.9)
+pycparser (2.14)
+pycrypto (2.6.1)
+PyYAML (3.12)
+requests (2.11.1)
+setproctitle (1.1.10)
+setuptools (18.0.1)
+six (1.10.0)
+wheel (0.24.0)
+```
